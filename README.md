@@ -1,4 +1,4 @@
-Twitter Sentiment Analysis 🚀
+# **TWITTER SENTIMENT ANALYSIS** 🚀
 
 An end-to-end NLP + Machine Learning project that classifies tweets as positive or negative using classical text processing and TF-IDF features.
 
